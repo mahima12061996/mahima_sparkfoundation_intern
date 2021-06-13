@@ -62,7 +62,7 @@ thead tr,th{
 <img src="./images/logo.png" style="
     height: 60px;
 ">
-<marquee direction="left"style="color:cornsilk;font-family:algerian;font-size:40px">WELCOME TO STATE BANK OF INDIA,JAMSHEDPUR</marquee>
+<marquee direction="left"style="color:cornsilk;font-family:algerian;font-size:40px">WELCOME TO TSF BANK OF INDIA..</marquee>
 </nav>
 
 
